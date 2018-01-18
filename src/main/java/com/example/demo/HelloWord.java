@@ -14,7 +14,7 @@ return "WELCOME TO MICROSERVICE";
 @RequestMapping("/detail")
 public String getDetail()
 {
-return "HII I AM SPRING BOOT project ";	
+return "HII I AM SPRING BOOT project with docker  ";	
 }
 
 }
